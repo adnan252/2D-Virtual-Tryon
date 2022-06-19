@@ -7,9 +7,12 @@ Simulate, analyse and compare the recent and most widely used Virtual Tryon algo
 ## Methodology
 ![Image text](/Images/1.png)
 
-As shown in Figure the functional block diagram consists of semantic segmentation,matching of cloth and target images geometrically and warping the cloth on image. In semantic segmentation function we will obtain the semantic segmentation of target image and
+As shown in Figure the functional block diagram consists of semantic segmentation,matching of cloth and target images geometrically and warping the cloth on image. In semantic segmentation function we will obtain the semantic segmentation of target image and
 generate its parsing points. These points are used to align the target cloth in the pose of the
 given human body. And using this functionality, we can obtain our Try On result.
+
+## Results
+### General results for a target cloth on target image.
 
 
 
