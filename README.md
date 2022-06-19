@@ -24,9 +24,9 @@ given human body. And using this functionality, we can obtain our Try On result.
 ![Image text](/Images/12.png)
 ### custom images in controlled environment results.
 ![Image text](/Images/13.png)
-![Image text](/Images/Screenshot(10).png)
+![Image text](/Images/14.png)
 ### custom images in uncontrolled environment results.
-![Image text](/Images/Screenshot(28).png)
+![Image text](/Images/15.png)
 
 
 
