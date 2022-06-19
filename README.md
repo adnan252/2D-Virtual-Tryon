@@ -13,6 +13,12 @@ given human body. And using this functionality, we can obtain our Try On result.
 
 ## Results
 ### General results for a target cloth on target image.
+### Simple Pose-Simple Cloth results.
+### Simple Pose-Complex Cloth results.
+### Complex Pose-Simple Cloth results.
+### Complex Pose-Complex Cloth results.
+### custom images in controlled environment results.
+### custom images in uncontrolled environment results.
 
 
 
